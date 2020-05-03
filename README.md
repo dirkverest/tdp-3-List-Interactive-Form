@@ -6,6 +6,7 @@ Project Requirements
 ====================
 
 ## jQuery
+Note: I do not like jQuery. Therefore I included seperate vanilla and jQuerry versions.
 - [x] Project includes jQuery and utilizes it in at least some aspect of the form.
 
 ## Focus on the first field
