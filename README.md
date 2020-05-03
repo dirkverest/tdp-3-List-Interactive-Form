@@ -1,4 +1,4 @@
-# Project 2 - Interactive Form
+# Project 3 - Interactive Form
 Treehouse Techdegree Project #3. Use JavaScript to enhance an interactive registration form for a fictional conference called "FullStack Conf".<br/>
 Grade: Exceeds Expectations
 
